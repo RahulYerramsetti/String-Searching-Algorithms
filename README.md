@@ -12,9 +12,9 @@ To run the project:
 
 1) Extract code.zip which is containg the project. 
 
-2) Import the project "daa" using the Eclipse IDE.
+2) Import the project "String-Searching-Algorithms" using the Eclipse IDE.
 
-3) Navigate to stringmatching package in it (daa\src\stringmatching\) to find the four algorithms in it.
+3) Navigate to stringmatching package in it (String-Searching-Algorithms\src\stringmatching\) to find the four algorithms in it.
 
 4) The Package contains four java programs:
    boyerbad.java              -- Implementing Boyer Moore bad character heuristic Search algorithm.
